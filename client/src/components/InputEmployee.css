@@ -1,0 +1,21 @@
+/* InputEmployee.css */
+.container {
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 20px;
+    border-radius: 10px; /* Rounded corners */
+  }
+  
+  .form-control {
+    margin-bottom: 10px; /* Add space between input fields */
+  }
+  
+  .btn-success {
+    background-color: #28a745; /* Green button */
+    border-color: #28a745; /* Green border */
+  }
+  
+  .btn-success:hover {
+    background-color: #218838; /* Darker green on hover */
+    border-color: #218838; /* Darker green border on hover */
+  }
+  
